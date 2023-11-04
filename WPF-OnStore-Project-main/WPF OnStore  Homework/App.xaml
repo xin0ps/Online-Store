@@ -1,0 +1,11 @@
+﻿<Application x:Class="WPF_OnStore__Homework.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_OnStore__Homework"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <BitmapImage x:Key="Cart" UriSource="assets/icons8-shopping-cart-32.png"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

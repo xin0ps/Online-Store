@@ -1,0 +1,110 @@
+﻿<Window x:Class="WPF_OnStore__Homework.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_OnStore__Homework"
+        mc:Ignorable="d"
+        Title="eShop" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="19*"/>
+            <ColumnDefinition Width="61*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0" Background="#514BC7">
+
+            <Grid VerticalAlignment="Top" HorizontalAlignment="Center">
+                <Image Source="{StaticResource Cart}"  MaxHeight="20" MaxWidth="20" Margin="-35 25 5 0"/>
+                <TextBlock Text="eShop" FontSize="15" FontWeight="Medium" Foreground="White" Margin="35 25 0 0"/>
+            </Grid>
+
+            <StackPanel HorizontalAlignment="Center" Margin="0 75 0 0">
+                <Button x:Name="HomePagebt" Content="Home" FontWeight="Medium" FontSize="13" Foreground="White" Background="Transparent" BorderBrush="Transparent" Width="90" Height="25" Click="HomePagebt_Click">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="10"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+                <Button x:Name="CartPagebt" Background="Transparent" BorderBrush="Transparent" Width="90" Height="25"  Margin="0 10" Click="CartPagebt_Click">
+                    <Viewbox>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Image Grid.Column="0" Source="{StaticResource Cart}" MaxHeight="13" MaxWidth="13" Margin="0 0 5 0"/>
+                            <TextBlock Text="Cart" Grid.Column="1" FontWeight="Medium" FontSize="13" Foreground="White"/>
+                        </Grid>
+                    </Viewbox>
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="10"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="57*"/>
+                <RowDefinition Height="421*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="203*"/>
+                    <ColumnDefinition Width="271*"/>
+                    <ColumnDefinition Width="136*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0"/>
+
+                <Grid Grid.Column="2">
+                    
+                </Grid>
+            </Grid>
+
+            <Grid Name="ProductsView" Visibility="Visible" Grid.Row="1">
+                <WrapPanel>
+                    <ListView BorderBrush="Transparent" Background="Transparent" ItemsSource="{Binding products}" Margin="10" SelectionChanged="ListView_Selected">
+                        <ListView.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <WrapPanel Orientation="Horizontal"/>
+                            </ItemsPanelTemplate>
+                        </ListView.ItemsPanel>
+                        
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Width="184" Height="144" Background="#DFDFDF">
+                                    <Image Source="{Binding ImageUrl}" MaxHeight="100" MaxWidth="100" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                                    <TextBlock Text="{Binding Name}" HorizontalAlignment="Left" VerticalAlignment="Bottom" FontSize="15" FontWeight="Medium" Foreground="#7B7B78" Margin="10"/>
+                                    <TextBlock Text="{Binding ShowPrice}" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontSize="20" FontWeight="Medium" Foreground="#7B7B78"/>
+                                </Grid>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </WrapPanel>    
+            </Grid>
+
+            <Grid Name="ProductsInOrderView" Visibility="Hidden" Grid.Row="1">
+                <WrapPanel>
+                    <ListView BorderBrush="Transparent" Background="Transparent" ItemsSource="{Binding productsInOrder}" Margin="10">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Width="184" Height="144" Background="#DFDFDF">
+                                    <Image Source="{Binding ImageUrl}" MaxHeight="100" MaxWidth="100" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                                    <TextBlock Text="{Binding Name}" HorizontalAlignment="Left" VerticalAlignment="Bottom" FontSize="15" FontWeight="Medium" Foreground="#7B7B78" Margin="10"/>
+                                    <TextBlock Text="{Binding ShowPrice}" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontSize="20" FontWeight="Medium" Foreground="#7B7B78"/>
+                                </Grid>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </WrapPanel>
+            </Grid>
+
+        </Grid>
+    </Grid>
+</Window>

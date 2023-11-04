@@ -1,0 +1,44 @@
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\bin\Debug\net6.0-windows\WPF OnStore  Homework.exe
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\bin\Debug\net6.0-windows\WPF OnStore  Homework.deps.json
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\bin\Debug\net6.0-windows\WPF OnStore  Homework.runtimeconfig.json
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\bin\Debug\net6.0-windows\WPF OnStore  Homework.dll
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\bin\Debug\net6.0-windows\WPF OnStore  Homework.pdb
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework_MarkupCompile.cache
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework_MarkupCompile.lref
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\App.baml
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.g.resources
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.dll
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\refint\WPF OnStore  Homework.dll
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.pdb
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WPF OnStore  Homework\WPF OnStore  Homework\obj\Debug\net6.0-windows\ref\WPF OnStore  Homework.dll
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\bin\Debug\net6.0-windows\WPF OnStore  Homework.exe
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\bin\Debug\net6.0-windows\WPF OnStore  Homework.deps.json
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\bin\Debug\net6.0-windows\WPF OnStore  Homework.runtimeconfig.json
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\bin\Debug\net6.0-windows\WPF OnStore  Homework.dll
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\bin\Debug\net6.0-windows\WPF OnStore  Homework.pdb
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework_MarkupCompile.cache
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework_MarkupCompile.lref
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\App.baml
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.g.resources
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.AssemblyInfo.cs
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.dll
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\refint\WPF OnStore  Homework.dll
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.pdb
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\WPF OnStore  Homework.genruntimeconfig.cache
+C:\Users\PC\Desktop\WPF-OnStore-Project-main\WPF-OnStore-Project-main\WPF OnStore  Homework\obj\Debug\net6.0-windows\ref\WPF OnStore  Homework.dll

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>WPF_OnStore__Homework</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="assets\icons8-shopping-cart-32.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="assets\icons8-shopping-cart-32.png" />
+  </ItemGroup>
+
+</Project>
